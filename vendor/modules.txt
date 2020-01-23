@@ -1,0 +1,6 @@
+# github.com/mattn/go-runewidth v0.0.8
+github.com/mattn/go-runewidth
+# golang.org/x/sys v0.0.0-20200122134326-e047566fdf82
+golang.org/x/sys/unix
+# gopkg.in/cheggaaa/pb.v1 v1.0.28
+gopkg.in/cheggaaa/pb.v1
